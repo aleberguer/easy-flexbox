@@ -1,0 +1,25 @@
+{
+  "name": "easy-flexbox",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aleberguer/easy-flexbox",
+  "authors": [
+    "Alexander Berguer"
+  ],
+  "description": "html attributes to deal easily with css flexbox",
+  "keywords": [
+    "css",
+    "flexbox",
+    "flex",
+    "layout",
+    "scss",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
